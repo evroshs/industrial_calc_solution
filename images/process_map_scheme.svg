@@ -1,0 +1,95 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="527" height="270" version="1.1" xmlns="http://www.w3.org/2000/svg">
+<rect x="292" y="25" width="38" height="22" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:1"/>
+<text x="311" y="36" style="font-family:Arial;font-size:8pt;fill:rgb(0,0,0);font-weight:bold;text-anchor:middle;dominant-baseline:central">file</text>
+<line x1="294" y1="27" x2="302" y2="27" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="294" y1="29" x2="300" y2="29" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="294" y1="31" x2="300" y2="31" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="294" y1="33" x2="300" y2="33" style="stroke:rgb(0,0,0);stroke-width:1"/>
+
+<rect x="444" y="77" width="73" height="22" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:1"/>
+<text x="480.5" y="88" style="font-family:Arial;font-size:8pt;fill:rgb(0,0,0);font-weight:bold;text-anchor:middle;dominant-baseline:central">startTemp</text>
+<line x1="446" y1="79" x2="454" y2="79" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="446" y1="81" x2="452" y2="81" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="446" y1="83" x2="452" y2="83" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="446" y1="85" x2="452" y2="85" style="stroke:rgb(0,0,0);stroke-width:1"/>
+
+<rect x="444" y="129" width="69" height="22" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:1"/>
+<text x="478.5" y="140" style="font-family:Arial;font-size:8pt;fill:rgb(0,0,0);font-weight:bold;text-anchor:middle;dominant-baseline:central">endTemp</text>
+<line x1="446" y1="131" x2="454" y2="131" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="446" y1="133" x2="452" y2="133" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="446" y1="135" x2="452" y2="135" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="446" y1="137" x2="452" y2="137" style="stroke:rgb(0,0,0);stroke-width:1"/>
+
+<rect x="444" y="181" width="64" height="22" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:1"/>
+<text x="476" y="192" style="font-family:Arial;font-size:8pt;fill:rgb(0,0,0);font-weight:bold;text-anchor:middle;dominant-baseline:central">duration</text>
+<line x1="446" y1="183" x2="454" y2="183" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="446" y1="185" x2="452" y2="185" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="446" y1="187" x2="452" y2="187" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="446" y1="189" x2="452" y2="189" style="stroke:rgb(0,0,0);stroke-width:1"/>
+
+<line x1="434" y1="88" x2="444" y2="88" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:round"/>
+<line x1="434" y1="140" x2="444" y2="140" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:round"/>
+<line x1="434" y1="192" x2="444" y2="192" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:round"/>
+<line x1="434" y1="88" x2="434" y2="192" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:round"/>
+<line x1="424" y1="140" x2="434" y2="140" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:round"/>
+<path d="M390 130 L413 130 L419 136 L419 144 L413 150 L390 150 L384 144 L384 136 Z" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="387" y1="140" x2="416" y2="140" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<ellipse cx="396" cy="140" rx="2" ry="2" style="rgb(0,0,0)"/>
+<ellipse cx="401" cy="140" rx="2" ry="2" style="rgb(0,0,0)"/>
+<ellipse cx="406" cy="140" rx="2" ry="2" style="rgb(0,0,0)"/>
+<rect x="414" y="135" width="10" height="10" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="416" y1="140" x2="422" y2="140" style="stroke:rgb(0,0,0);stroke-width:1"/>
+
+<line x1="364" y1="140" x2="384" y2="140" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:round"/>
+<rect x="295" y="132" width="67" height="22" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:1"/>
+<rect x="292" y="129" width="67" height="22" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:1"/>
+<text x="325.5" y="140" style="font-family:Arial;font-size:8pt;fill:rgb(0,0,0);font-weight:bold;text-anchor:middle;dominant-baseline:central">process</text>
+<text x="354" y="161" style="font-family:Arial;font-size:7.2pt;fill:rgb(0,0,0);text-anchor:end;dominant-baseline:central">1..∞</text>
+<rect x="354" y="135" width="10" height="10" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="356" y1="140" x2="362" y2="140" style="stroke:rgb(0,0,0);stroke-width:1"/>
+
+<rect x="292" y="233" width="50" height="22" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:1;stroke-dasharray:4,1"/>
+<text x="317" y="244" style="font-family:Arial;font-size:8pt;fill:rgb(0,0,0);font-weight:bold;text-anchor:middle;dominant-baseline:central">notes</text>
+<line x1="294" y1="235" x2="302" y2="235" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="294" y1="237" x2="300" y2="237" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="294" y1="239" x2="300" y2="239" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="294" y1="241" x2="300" y2="241" style="stroke:rgb(0,0,0);stroke-width:1"/>
+
+<line x1="282" y1="36" x2="292" y2="36" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:round"/>
+<line x1="282" y1="140" x2="292" y2="140" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:round"/>
+<line x1="282" y1="244" x2="292" y2="244" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:round"/>
+<line x1="282" y1="36" x2="282" y2="244" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:round"/>
+<line x1="272" y1="140" x2="282" y2="140" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:round"/>
+<path d="M238 130 L261 130 L267 136 L267 144 L261 150 L238 150 L232 144 L232 136 Z" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="235" y1="140" x2="264" y2="140" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<ellipse cx="244" cy="140" rx="2" ry="2" style="rgb(0,0,0)"/>
+<ellipse cx="249" cy="140" rx="2" ry="2" style="rgb(0,0,0)"/>
+<ellipse cx="254" cy="140" rx="2" ry="2" style="rgb(0,0,0)"/>
+<rect x="262" y="135" width="10" height="10" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="264" y1="140" x2="270" y2="140" style="stroke:rgb(0,0,0);stroke-width:1"/>
+
+<line x1="212" y1="140" x2="232" y2="140" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:round"/>
+<rect x="162" y="132" width="48" height="22" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:1"/>
+<rect x="159" y="129" width="48" height="22" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:1"/>
+<text x="183" y="140" style="font-family:Arial;font-size:8pt;fill:rgb(0,0,0);font-weight:bold;text-anchor:middle;dominant-baseline:central">Map</text>
+<text x="202" y="161" style="font-family:Arial;font-size:7.2pt;fill:rgb(0,0,0);text-anchor:end;dominant-baseline:central">1..∞</text>
+<rect x="202" y="135" width="10" height="10" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="204" y1="140" x2="210" y2="140" style="stroke:rgb(0,0,0);stroke-width:1"/>
+
+<line x1="139" y1="140" x2="159" y2="140" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:round"/>
+<path d="M105 130 L128 130 L134 136 L134 144 L128 150 L105 150 L99 144 L99 136 Z" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="102" y1="140" x2="131" y2="140" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<ellipse cx="111" cy="140" rx="2" ry="2" style="rgb(0,0,0)"/>
+<ellipse cx="116" cy="140" rx="2" ry="2" style="rgb(0,0,0)"/>
+<ellipse cx="121" cy="140" rx="2" ry="2" style="rgb(0,0,0)"/>
+<rect x="129" y="135" width="10" height="10" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="131" y1="140" x2="137" y2="140" style="stroke:rgb(0,0,0);stroke-width:1"/>
+
+<line x1="79" y1="140" x2="99" y2="140" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:round"/>
+<rect x="20" y="129" width="54" height="22" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:1"/>
+<text x="47" y="140" style="font-family:Arial;font-size:8pt;fill:rgb(0,0,0);font-weight:bold;text-anchor:middle;dominant-baseline:central">Maps</text>
+<rect x="69" y="135" width="10" height="10" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="71" y1="140" x2="77" y2="140" style="stroke:rgb(0,0,0);stroke-width:1"/>
+</svg>

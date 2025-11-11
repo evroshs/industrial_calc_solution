@@ -1,0 +1,62 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="436" height="166" version="1.1" xmlns="http://www.w3.org/2000/svg">
+<rect x="348" y="25" width="38" height="22" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:1"/>
+<text x="367" y="36" style="font-family:Arial;font-size:8pt;fill:rgb(0,0,0);font-weight:bold;text-anchor:middle;dominant-baseline:central">mu</text>
+<line x1="350" y1="27" x2="358" y2="27" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="350" y1="29" x2="356" y2="29" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="350" y1="31" x2="356" y2="31" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="350" y1="33" x2="356" y2="33" style="stroke:rgb(0,0,0);stroke-width:1"/>
+
+<rect x="348" y="77" width="59" height="22" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:1"/>
+<text x="377.5" y="88" style="font-family:Arial;font-size:8pt;fill:rgb(0,0,0);font-weight:bold;text-anchor:middle;dominant-baseline:central">lambda</text>
+<line x1="350" y1="79" x2="358" y2="79" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="350" y1="81" x2="356" y2="81" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="350" y1="83" x2="356" y2="83" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="350" y1="85" x2="356" y2="85" style="stroke:rgb(0,0,0);stroke-width:1"/>
+
+<rect x="348" y="129" width="78" height="22" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:1"/>
+<text x="387" y="140" style="font-family:Arial;font-size:8pt;fill:rgb(0,0,0);font-weight:bold;text-anchor:middle;dominant-baseline:central">description</text>
+<line x1="350" y1="131" x2="358" y2="131" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="350" y1="133" x2="356" y2="133" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="350" y1="135" x2="356" y2="135" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="350" y1="137" x2="356" y2="137" style="stroke:rgb(0,0,0);stroke-width:1"/>
+
+<line x1="338" y1="36" x2="348" y2="36" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:round"/>
+<line x1="338" y1="88" x2="348" y2="88" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:round"/>
+<line x1="338" y1="140" x2="348" y2="140" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:round"/>
+<line x1="338" y1="36" x2="338" y2="140" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:round"/>
+<line x1="328" y1="88" x2="338" y2="88" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:round"/>
+<path d="M294 78 L317 78 L323 84 L323 92 L317 98 L294 98 L288 92 L288 84 Z" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="291" y1="88" x2="320" y2="88" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<ellipse cx="300" cy="88" rx="2" ry="2" style="rgb(0,0,0)"/>
+<ellipse cx="305" cy="88" rx="2" ry="2" style="rgb(0,0,0)"/>
+<ellipse cx="310" cy="88" rx="2" ry="2" style="rgb(0,0,0)"/>
+<rect x="318" y="83" width="10" height="10" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="320" y1="88" x2="326" y2="88" style="stroke:rgb(0,0,0);stroke-width:1"/>
+
+<line x1="268" y1="88" x2="288" y2="88" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:round"/>
+<rect x="199" y="80" width="67" height="22" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:1"/>
+<rect x="196" y="77" width="67" height="22" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:1"/>
+<text x="229.5" y="88" style="font-family:Arial;font-size:8pt;fill:rgb(0,0,0);font-weight:bold;text-anchor:middle;dominant-baseline:central">element</text>
+<text x="258" y="109" style="font-family:Arial;font-size:7.2pt;fill:rgb(0,0,0);text-anchor:end;dominant-baseline:central">1..∞</text>
+<line x1="197" y1="98" x2="200" y2="95" style="stroke:rgb(0,0,0);stroke-width:2"/>
+<path d="M200 95 L202 97 L203 92 L198 93 L200 95 Z" style="fill:rgb(0,0,0)"/>
+<rect x="258" y="83" width="10" height="10" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="260" y1="88" x2="266" y2="88" style="stroke:rgb(0,0,0);stroke-width:1"/>
+
+<line x1="176" y1="88" x2="196" y2="88" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:round"/>
+<path d="M142 78 L165 78 L171 84 L171 92 L165 98 L142 98 L136 92 L136 84 Z" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="139" y1="88" x2="168" y2="88" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<ellipse cx="148" cy="88" rx="2" ry="2" style="rgb(0,0,0)"/>
+<ellipse cx="153" cy="88" rx="2" ry="2" style="rgb(0,0,0)"/>
+<ellipse cx="158" cy="88" rx="2" ry="2" style="rgb(0,0,0)"/>
+<rect x="166" y="83" width="10" height="10" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="168" y1="88" x2="174" y2="88" style="stroke:rgb(0,0,0);stroke-width:1"/>
+
+<line x1="116" y1="88" x2="136" y2="88" style="stroke:rgb(0,0,0);stroke-width:1;stroke-linecap:round"/>
+<rect x="20" y="77" width="91" height="22" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:1"/>
+<text x="65.5" y="88" style="font-family:Arial;font-size:8pt;fill:rgb(0,0,0);font-weight:bold;text-anchor:middle;dominant-baseline:central">elements-list</text>
+<rect x="106" y="83" width="10" height="10" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="108" y1="88" x2="114" y2="88" style="stroke:rgb(0,0,0);stroke-width:1"/>
+</svg>
